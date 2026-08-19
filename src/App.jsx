@@ -19,7 +19,7 @@ export default function App() {
           >
             {/* Logo Image */}
             <img
-              src="src/assets/logo.png"
+              src="/logo.png"
               alt="Jenny Ye logo"
               className="w-25 h-25 object-contain group-hover:opacity-80 transition-opacity"
               onError={(e) => {
