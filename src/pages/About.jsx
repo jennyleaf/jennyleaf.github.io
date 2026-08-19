@@ -43,7 +43,7 @@ export default function About() {
       <div className="flex justify-center md:justify-end">
         <div className="max-w-xs w-full overflow-hidden rounded-lg shadow-sm bg-neutral-100">
           <img
-            src="public/images/me.jpg"
+            src="/images/me.jpg"
             alt="Jenny Ye"
             className="w-full h-auto object-cover"
             onError={(e) => {
