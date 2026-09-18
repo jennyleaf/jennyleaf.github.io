@@ -1,12 +1,12 @@
 export default function About() {
   return (
-    <section className="grid grid-cols-1 md:grid-cols-2 gap-10 items-start pt-4">
+    <section className="grid grid-cols-1 md:grid-cols-2 gap-10 items-center pt-4">
       {/* Bio Column */}
       <div className="space-y-5 text-neutral-800 text-base leading-relaxed">
         <p>hey!</p>
 
         <p>
-          i graduated from columbia university where i studied applied math + cs.
+          i graduated from columbia university in 2026 where i studied applied math + cs.
         </p>
 
         <p>
@@ -15,7 +15,7 @@ export default function About() {
 
         <p>
           when i&apos;m not working with data, you&apos;ll find me crocheting stuffed animals,
-          binge watching television shows, or ranking restaurants on beli
+          binge watching television shows, or ranking restaurants on beli.
         </p>
 
         <div className="pt-4 space-y-1 text-base">
