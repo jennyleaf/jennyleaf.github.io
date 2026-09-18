@@ -6,11 +6,11 @@ export default function About() {
         <p>hey!</p>
 
         <p>
-          i recently graduated from columbia university where i studied applied math + cs
+          i graduated from columbia university where i studied applied math + cs.
         </p>
 
         <p>
-          i love all things design &amp; data
+          i love all things design &amp; data! i was the 149th graphics editor of the columbia daily spectator and more recently, the summer 2026 graphics intern at the washington post.
         </p>
 
         <p>
